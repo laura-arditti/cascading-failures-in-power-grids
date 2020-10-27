@@ -1,6 +1,8 @@
 # Cascading failures in power grids
 ## Propagation and vulnerability analysis 
 
+![preview](preview.jpg)
+
 Project work for the PhD course in [Data Science for Networks](https://smartdata.polito.it/phd-course-data-science-for-networks/) at SmartData@PoliTO.
 
 ## Contents
